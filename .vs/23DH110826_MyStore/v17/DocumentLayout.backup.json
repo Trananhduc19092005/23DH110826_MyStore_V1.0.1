@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPNET MVC\\23DH110826_MyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|d:\\aspnet mvc\\23dh110826_mystore\\23dh110826_mystore\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|d:\\aspnet mvc\\23dh110826_mystore\\23dh110826_mystore\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|d:\\aspnet mvc\\23dh110826_mystore\\23dh110826_mystore\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|d:\\aspnet mvc\\23dh110826_mystore\\23dh110826_mystore\\areas\\admin\\views\\category\\categoryhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\category\\categoryhome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|d:\\aspnet mvc\\23dh110826_mystore\\23dh110826_mystore\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|d:\\aspnet mvc\\23dh110826_mystore\\23dh110826_mystore\\areas\\userarea\\views\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\userarea\\views\\_userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|d:\\aspnet mvc\\23dh110826_mystore\\23dh110826_mystore\\areas\\userarea\\userareaarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\userarea\\userareaarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\models\\mystoredbo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\models\\mystoredbo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\models\\mystoredbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\models\\mystoredbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|D:\\ASPNET MVC\\23DH110826_MyStore\\23dh110826_mystore\\models\\mystoredbo.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2362F36D-F65A-4EE8-95F7-148B55472602}|23DH110826_MyStore\\23DH110826_MyStore.csproj|solutionrelative:23dh110826_mystore\\models\\mystoredbo.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:58:20.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:57:57.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_UserLayout.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\UserArea\\Views\\_UserLayout.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\UserArea\\Views\\_UserLayout.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\UserArea\\Views\\_UserLayout.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\UserArea\\Views\\_UserLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:08:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:05:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAreaAreaRegistration.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\UserArea\\UserAreaAreaRegistration.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\UserArea\\UserAreaAreaRegistration.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\UserArea\\UserAreaAreaRegistration.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\UserArea\\UserAreaAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:58:33.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:56:12.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryHome.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\CategoryHome.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\CategoryHome.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\CategoryHome.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\CategoryHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:47:04.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:47:01.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyStoredbo.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\MyStoredbo.edmx",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Models\\MyStoredbo.edmx",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\MyStoredbo.edmx [Diagram1]",
+              "RelativeToolTip": "23DH110826_MyStore\\Models\\MyStoredbo.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-08T07:02:15.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T14:03:47.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:59:21.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:48:36.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:47:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:47:05.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "23DH110826_MyStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T13:47:03.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Models\\Customer.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\Customer.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:10:05.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyStoredbo.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\MyStoredbo.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Models\\MyStoredbo.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\MyStoredbo.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Models\\MyStoredbo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:10:02.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyStoredbo.Context.tt",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\MyStoredbo.Context.tt",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Models\\MyStoredbo.Context.tt",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\MyStoredbo.Context.tt",
+              "RelativeToolTip": "23DH110826_MyStore\\Models\\MyStoredbo.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-08T07:09:25.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Models\\Category.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\Category.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Models\\Category.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:09:10.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "23DH110826_MyStore\\Models\\Product.cs",
+              "ToolTip": "D:\\ASPNET MVC\\23DH110826_MyStore\\23DH110826_MyStore\\Models\\Product.cs",
+              "RelativeToolTip": "23DH110826_MyStore\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:07:45.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
